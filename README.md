@@ -1,6 +1,6 @@
-<h1>Matx React Admin Dashboard Template</h1>
+<h1>Matx React Admin Dashboard</h1>
 
-<p>MatX is a full-featured React Material UI Admin Dashboard template. MatX is built with React, Redux & Material UI We implemented all the features you might need to sta-rt a new Web application. </p>
+<p>MatX is a full-featured React Material UI Admin Dashboard . MatX is built with React, Redux & Material UI We implemented all the features you might need to sta-rt a new Web application. </p>
 
 ## Demo video
 
